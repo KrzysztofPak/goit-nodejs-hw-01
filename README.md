@@ -1,16 +1,16 @@
 # nodejs-homework-01
 
 Contacts list
-https://monosnap.com/file/l99xyoLQ1CFRWELwmwyTtkbFCrBNAV
+ 
 
 Get contact by id
-https://monosnap.com/file/thHdXgQZwC4ackpetj0BgiDmIHeHTv
+ 
 
 Add contact
-https://monosnap.com/file/JhIwh0HvY1JdlAui2VhmR2v5BOYGYV
+ 
 
 Remove contact by id
-https://monosnap.com/file/7PVExwNFnX6uDyoHhJzBtrrMu7DruN
+ 
 
 <!-- =================================== -->
 
