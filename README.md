@@ -1,4 +1,4 @@
-# nodejs-homework-01
+# goit-nodejs-hw-01
 
 Contacts list
  https://monosnap.com/file/wr61CtGaNK7ozf1JgHBGux91uYaTAZ
